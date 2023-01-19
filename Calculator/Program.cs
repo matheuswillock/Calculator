@@ -12,7 +12,13 @@
             Console.Clear();
             Console.WriteLine("Qual operação deseja realizar?");
 
-            Console.WriteLine("1 - Soma\n2 - Subtração\n3 - divisão\n4 - Multiplicação\n5 - Sair\n");
+            Console.WriteLine("\n" +
+                    "1 - Soma\n" +
+                    "2 - Subtração\n" +
+                    "3 - divisão\n" +
+                    "4 - Multiplicação\n" +
+                    "5 - Sair\n"
+                );
 
             Console.WriteLine("------------------\nSelecione um opção: ");
             
